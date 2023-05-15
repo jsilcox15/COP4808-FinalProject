@@ -1,0 +1,12 @@
+.movie-table tr:nth-child(2n) {
+    background-color: rgb(117, 117, 117),
+}
+
+.movie-table {
+    margin:20px;
+}
+
+.movie-table, .movie-table tr, .movie-table td, .movie-table th {
+    padding: 5px 15px;
+    max-width: 80%;
+}
