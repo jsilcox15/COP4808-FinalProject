@@ -1,7 +1,5 @@
 Group 16 - Final Project TheMovieDatabase Website
 
-https://group16-finalproject.herokuapp.com/
-
 https://youtu.be/7fb63wXuKtA
 
 
